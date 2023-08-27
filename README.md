@@ -63,7 +63,7 @@
 ### 6) Flipkart
 **➡️ Role**: Intern and Full time \
 **⭐️ Program**: Flipkart Grid \
-**🎯 Eligibility**: All years undergrads
+**🎯 Eligibility**: All years undergrads students
 
 ---
 
@@ -127,6 +127,20 @@
 **➡️ Role**: Full time \
 **⭐️ Program**: Stratethon  \
 **🎯 Eligibility**: All year students 
+
+---
+
+### 16) Google
+**➡️ Role**: SDE Internship \
+**⭐️ Program**: Step Intern  \
+**🎯 Eligibility**: 2nd year students 
+
+---
+
+### 17) Myntra
+**➡️ Role**: Intern + FTE \
+**⭐️ Program**: Myntra Hackerramp  \
+**🎯 Eligibility**: Final and pre final year students  
 
 ---
 
