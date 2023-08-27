@@ -1,5 +1,30 @@
 # Which all companies hires OffCampus and through which program? 😇 ✅
 
+---
+
+###
+
+#### Join us for all the latest offcampus job updates, webinar, hackathons, resume review and a lot more :heart::heart:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/amanchowdhury046/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@amanchowdhury046" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://telegram.me/offcampus_phodenge" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/aman_chowdhury_046/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+---
+
 ### 1) Goldman Sachs <img src="/assets/images/wtc1.png" width="60" height="35" align="center">
 **➡️ Role**: Intern and Full time both \
 **⭐️ Program**: Engineer Campus Hiring \
@@ -107,8 +132,28 @@
 
 <img src="/assets/images/save.png" width="600" height="200">
 
-**For any doubt, feel free to connect on Linkedin and Instagram**
+---
 
-> [Linkedin](https://www.linkedin.com/in/amanchowdhury046/) \
-[Instagram](https://www.instagram.com/aman_chowdhury_046/)
+###
+
+#### Join us for all the latest offcampus job updates, webinar, hackathons, resume review and a lot more :heart::heart:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/amanchowdhury046/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@amanchowdhury046" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://telegram.me/offcampus_phodenge" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/aman_chowdhury_046/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+---
 
