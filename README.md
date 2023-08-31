@@ -35,7 +35,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 2) DeShaw & Co
+### 2) <img src="/assets/images/deshaw.png" width="150" height="100" align="center">
 **➡️ Hire**: Intern \
 **⭐️ Program**: Ascend Educare (Summer Cohort and Winter Cohort) \
 **🎯 Eligibility**: 2nd and 3rd year students \
@@ -43,7 +43,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 3) Uber 
+### 3) <img src="/assets/images/uber.jpeg" width="150" height="100" align="center"> 
 **➡️ Hire**: Intern and Full time \
 **⭐️ Program**: HackTag \
 **🎯 Eligibility**: Final and pre final year students \
@@ -51,7 +51,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 4) Cisco
+### 4) <img src="/assets/images/cisco.png" width="150" height="100" align="center">
 **➡️ Hire**: Inten \
 **⭐️ Program**: Ideathon \
 **🎯 Eligibility**: Second and Pre final year students \
@@ -59,7 +59,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 5) Microsoft
+### 5) <img src="/assets/images/microsoft.png" width="150" height="100" align="center">
 **➡️ Hire**: Intern \
 **⭐️ Program**: Microsoft Engage \
 **🎯 Eligibility**: 2nd year students \
@@ -67,7 +67,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 6) Flipkart
+### 6) <img src="/assets/images/flipkart.png" width="150" height="100" align="center">
 **➡️ Hire**: Intern and Full time \
 **⭐️ Program**: Flipkart Grid \
 **🎯 Eligibility**: All years undergraduate students \
@@ -75,7 +75,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 7) GitHub
+### 7) <img src="/assets/images/github.png" width="150" height="100" align="center">
 **➡️ Hire**: Intern \
 **⭐️ Program**: Externship (Summer Cohort and Winter Cohort) \
 **🎯 Eligibility**: Final and pre final year students \
@@ -83,7 +83,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 8) American Express 
+### 8) <img src="/assets/images/amex.png" width="150" height="100" align="center"> 
 **➡️ Hire**: Intern \
 **⭐️ Program**: CodeStreet, Geek Goddess (Only for female candidates) \
 **🎯 Eligibility**: Final and pre final year students \
@@ -91,7 +91,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 9) J.P. Morgan
+### 9) <img src="/assets/images/jpmorgan.png" width="150" height="100" align="center">
 **➡️ Hire**: Intern and Full time \
 **⭐️ Program**: Code for Good \
 **🎯 Eligibility**: 2nd and 3rd year students \
@@ -99,7 +99,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 10) Lowe’s 
+### 10) <img src="/assets/images/lowes.png" width="150" height="100" align="center">
 **➡️ Hire**: Full time \
 **⭐️ Program**: Lowe’s Hiring Challenge \
 **🎯 Eligibility**: Final year students \
@@ -107,7 +107,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 11) Myntra 
+### 11) <img src="/assets/images/myntra.png" width="150" height="100" align="center"> 
 **➡️ Hire**: Intern and Full time \
 **⭐️ Program**: HackerRamp \
 **🎯 Eligibility**: Final and pre final year students \
@@ -115,7 +115,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 12) Code Nation (Trilogy)
+### 12) <img src="/assets/images/trilogy.png" width="150" height="100" align="center">
 **➡️ Hire**: Intern and Full time \
 **⭐️ Program**: CodeAgon \
 **🎯 Eligibility**: Final and pre final year students \
@@ -123,7 +123,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 13) Juspay 
+### 13) <img src="/assets/images/juspay.png" width="150" height="100" align="center"> 
 **➡️ Hire**: Intern and Full time \
 **⭐️ Program**: Juspay Hiring Challenge \
 **🎯 Eligibility**: Final and pre final year students \
@@ -131,7 +131,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 14) Intuit 
+### 14) <img src="/assets/images/intuit.png" width="150" height="100" align="center">
 **➡️ Hire**: Intern and Full time \
 **⭐️ Program**: Hire through Referral only \
 **🎯 Eligibility**: Final and pre final year students \
@@ -139,7 +139,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 15) Optum
+### 15) <img src="/assets/images/optum.png" width="150" height="100" align="center">
 **➡️ Hire**: Full time \
 **⭐️ Program**: Stratethon  \
 **🎯 Eligibility**: All year students \
@@ -147,7 +147,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 16) Google
+### 16) <img src="/assets/images/google.png" width="150" height="100" align="center">
 **➡️ Hire**: SDE Internship \
 **⭐️ Program**: Step Intern  \
 **🎯 Eligibility**: 2nd year students \
@@ -155,7 +155,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 17) Morgan Stanley
+### 17) <img src="/assets/images/morganstanley.png" width="150" height="100" align="center">
 **➡️ Hire**: Intern + FTE \
 **⭐️ Program**: Direct Hiring through Career portal \
 **🎯 Eligibility**: Final and pre final year students \
@@ -163,7 +163,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 18) Innovacer
+### 18) <img src="/assets/images/innovaccer.png" width="150" height="100" align="center">
 **➡️ Hire**: Full-time \
 **⭐️ Program**: Hackercamp \
 **🎯 Eligibility**: Any year/Experienced \
@@ -172,7 +172,7 @@ This list consist of top product based companies, those hires offcampus.
 ---
 
 
-### 19) Walmart
+### 19) <img src="/assets/images/walmart.png" width="150" height="100" align="center">
 **➡️ Hire**: Full-time \
 **⭐️ Program**: Codehers (Only for female candidates)  \
 **🎯 Eligibility**: Final and pre final year students \
@@ -180,7 +180,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 20) Sprinklr
+### 20) <img src="/assets/images/sprinklr.png" width="150" height="100" align="center">
 **➡️ Hire**: Full-time \
 **⭐️ Program**: Hiring Challenge \
 **🎯 Eligibility**: Final year/Experienced \
@@ -188,7 +188,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 21) BNY Mellon
+### 21) <img src="/assets/images/bnymellon.jpeg" width="150" height="100" align="center">
 **➡️ Hire**: Intern/Full-time \
 **⭐️ Program**: CodeDivas (Only Female) \
 **🎯 Eligibility**: Final and pre final year students \
@@ -196,7 +196,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 22) Linkedin
+### 22) <img src="/assets/images/linkedin.png" width="150" height="100" align="center">
 **➡️ Hire**: Intern/Full-time \
 **⭐️ Program**: Coachin, Direct Hiring  \
 **🎯 Eligibility**: 2nd, 3rd and Final year students \
@@ -204,7 +204,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 23) MLH
+### 23) <img src="/assets/images/mlh.png" width="150" height="100" align="center">
 **➡️ Hire**: 12 week Intern \
 **⭐️ Program**: SWE Fellowship \
 **🎯 Eligibility**: Any year undergraduate students \
@@ -212,7 +212,7 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 24) Arcesium
+### 24) <img src="/assets/images/arcesium.png" width="150" height="100" align="center">
 **➡️ Hire**: Full-time \
 **⭐️ Program**: She Codes (Only for female), Direct Hire (Recruiter Contact) \
 **🎯 Eligibility**: Final year/Experienced \
