@@ -27,124 +27,199 @@ This list consist of top product based companies, those hires offcampus.
 
 ---
 
-### 1) Goldman Sachs <img src="/assets/images/wtc1.png" width="60" height="35" align="center">
-**➡️ Role**: Intern and Full time both \
+### 1) <img src="/assets/images/wtc1.png" width="150" height="100" align="center">
+**➡️ Hire**: Intern and Full time both \
 **⭐️ Program**: Engineer Campus Hiring \
-**🎯 Eligibility**: Final and pre final year students 
+**🎯 Eligibility**: Final and pre final year students \
+**📅 Timeline**: Feb, Aug
 
 ---
 
 ### 2) DeShaw & Co
-**➡️ Role**: Intern (Female grads) \
-**⭐️ Program**: Ascend Educare \
-**🎯 Eligibility**: 2nd and 3rd year students 
+**➡️ Hire**: Intern \
+**⭐️ Program**: Ascend Educare (Summer Cohort and Winter Cohort) \
+**🎯 Eligibility**: 2nd and 3rd year students \
+**📅 Timeline**: July-Aug
 
 ---
 
 ### 3) Uber 
-**➡️ Role**: Intern and Full time \
+**➡️ Hire**: Intern and Full time \
 **⭐️ Program**: HackTag \
-**🎯 Eligibility**: Final and pre final year students 
+**🎯 Eligibility**: Final and pre final year students \
+**📅 Timeline**: Around Febuary-March
 
 ---
 
 ### 4) Cisco
-**➡️ Role**: Inten \
+**➡️ Hire**: Inten \
 **⭐️ Program**: Ideathon \
-**🎯 Eligibility**: Pre final year students 
+**🎯 Eligibility**: Second and Pre final year students \
+**📅 Timeline**: June, March
 
 ---
 
 ### 5) Microsoft
-**➡️ Role**: Intern and Full time \
+**➡️ Hire**: Intern \
 **⭐️ Program**: Microsoft Engage \
-**🎯 Eligibility**: 2nd and 3rd year students
+**🎯 Eligibility**: 2nd year students \
+**📅 Timeline**: Around April - May 
 
 ---
 
 ### 6) Flipkart
-**➡️ Role**: Intern and Full time \
+**➡️ Hire**: Intern and Full time \
 **⭐️ Program**: Flipkart Grid \
-**🎯 Eligibility**: All years undergrads students
+**🎯 Eligibility**: All years undergraduate students \
+**📅 Timeline**: Around June
 
 ---
 
 ### 7) GitHub
-**➡️ Role**: Intern \
-**⭐️ Program**: Externship \
-**🎯 Eligibility**: Final and pre final year students 
+**➡️ Hire**: Intern \
+**⭐️ Program**: Externship (Summer Cohort and Winter Cohort) \
+**🎯 Eligibility**: Final and pre final year students \
+**📅 Timeline**: Mar, Nov 
 
 ---
 
 ### 8) American Express 
-**➡️ Role**: Intern \
-**⭐️ Program**: CodeStreet, Geek Goddess \
-**🎯 Eligibility**: Final and pre final year students 
+**➡️ Hire**: Intern \
+**⭐️ Program**: CodeStreet, Geek Goddess (Only for female candidates) \
+**🎯 Eligibility**: Final and pre final year students \
+**📅 Timeline**: Aug, Nov 
 
 ---
 
 ### 9) J.P. Morgan
-**➡️ Role**: Intern and Full time \
+**➡️ Hire**: Intern and Full time \
 **⭐️ Program**: Code for Good \
-**🎯 Eligibility**: 2nd and 3rd year students 
+**🎯 Eligibility**: 2nd and 3rd year students \
+**📅 Timeline**: Around Feb-Mar
 
 ---
 
 ### 10) Lowe’s 
-**➡️ Role**: Full time \
+**➡️ Hire**: Full time \
 **⭐️ Program**: Lowe’s Hiring Challenge \
-**🎯 Eligibility**: Final year students 
+**🎯 Eligibility**: Final year students \
+**📅 Timeline**: Around June
 
 ---
 
 ### 11) Myntra 
-**➡️ Role**: Intern and Full time \
+**➡️ Hire**: Intern and Full time \
 **⭐️ Program**: HackerRamp \
-**🎯 Eligibility**: Final and pre final year students 
+**🎯 Eligibility**: Final and pre final year students \
+**📅 Timeline**: Around Sept-Oct
 
 ---
 
 ### 12) Code Nation (Trilogy)
-**➡️ Role**: Intern and Full time \
+**➡️ Hire**: Intern and Full time \
 **⭐️ Program**: CodeAgon \
-**🎯 Eligibility**: Final and pre final year students 
+**🎯 Eligibility**: Final and pre final year students \
+**📅 Timeline**: Jan, Sept
 
 ---
 
 ### 13) Juspay 
-**➡️ Role**: Intern and Full time \
+**➡️ Hire**: Intern and Full time \
 **⭐️ Program**: Juspay Hiring Challenge \
-**🎯 Eligibility**: Final and pre final year students 
+**🎯 Eligibility**: Final and pre final year students \
+**📅 Timeline**: Mar, Sept
 
 ---
 
 ### 14) Intuit 
-**➡️ Role**: Intern and Full time \
+**➡️ Hire**: Intern and Full time \
 **⭐️ Program**: Hire through Referral only \
-**🎯 Eligibility**: Final and pre final year students 
+**🎯 Eligibility**: Final and pre final year students \
+**📅 Timeline**: Around Oct-Nov
 
 ---
 
 ### 15) Optum
-**➡️ Role**: Full time \
+**➡️ Hire**: Full time \
 **⭐️ Program**: Stratethon  \
-**🎯 Eligibility**: All year students 
+**🎯 Eligibility**: All year students \
+**📅 Timeline**: Around Oct-Nov
 
 ---
 
 ### 16) Google
-**➡️ Role**: SDE Internship \
+**➡️ Hire**: SDE Internship \
 **⭐️ Program**: Step Intern  \
-**🎯 Eligibility**: 2nd year students 
+**🎯 Eligibility**: 2nd year students \
+**📅 Timeline**: Around April - May
 
 ---
 
-### 17) Myntra
-**➡️ Role**: Intern + FTE \
-**⭐️ Program**: Myntra Hackerramp  \
-**🎯 Eligibility**: Final and pre final year students  
+### 17) Morgan Stanley
+**➡️ Hire**: Intern + FTE \
+**⭐️ Program**: Direct Hiring through Career portal \
+**🎯 Eligibility**: Final and pre final year students \
+**📅 Timeline**: Around Oct-Nov
 
 ---
+
+### 18) Innovacer
+**➡️ Hire**: Full-time \
+**⭐️ Program**: Hackercamp \
+**🎯 Eligibility**: Any year/Experienced \
+**📅 Timeline**: Around April
+
+---
+
+
+### 19) Walmart
+**➡️ Hire**: Full-time \
+**⭐️ Program**: Codehers (Only for female candidates)  \
+**🎯 Eligibility**: Final and pre final year students \
+**📅 Timeline**: Mar, June
+
+---
+
+### 20) Sprinklr
+**➡️ Hire**: Full-time \
+**⭐️ Program**: Hiring Challenge \
+**🎯 Eligibility**: Final year/Experienced \
+**📅 Timeline**: Around July
+
+---
+
+### 21) BNY Mellon
+**➡️ Hire**: Intern/Full-time \
+**⭐️ Program**: CodeDivas (Only Female) \
+**🎯 Eligibility**: Final and pre final year students \
+**📅 Timeline**: Around Sept-Oct 
+
+---
+
+### 22) Linkedin
+**➡️ Hire**: Intern/Full-time \
+**⭐️ Program**: Coachin, Direct Hiring  \
+**🎯 Eligibility**: 2nd, 3rd and Final year students \
+**📅 Timeline**: Apr-May, Oct 
+
+---
+
+### 23) MLH
+**➡️ Hire**: 12 week Intern \
+**⭐️ Program**: SWE Fellowship \
+**🎯 Eligibility**: Any year undergraduate students \
+**📅 Timeline**: Jan, May, Sept 
+
+---
+
+### 24) Arcesium
+**➡️ Hire**: Full-time \
+**⭐️ Program**: She Codes (Only for female), Direct Hire (Recruiter Contact) \
+**🎯 Eligibility**: Final year/Experienced \
+**📅 Timeline**: June-July (For She Codes)
+
+---
+
 
 <img src="/assets/images/save.png" width="600" height="200">
 
