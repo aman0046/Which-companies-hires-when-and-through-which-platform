@@ -1,6 +1,8 @@
 # Which all companies hires when and through which program? 😇 ✅
 
-This list consist of top product based companies, those hires offcampus.
+This list consist of top product based companies, those hires offcampus. For the exact date and timeline join our telegram channel <a href="https://telegram.me/offcampus_phodenge" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=OffCampus Phodenge By Aman&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" align="center" height="25" alt="telegram logo"  />
+  </a> where I share all the Job Updates, Webinar, Hackathon, so that you will not miss any single opportunities.
 
 ---
 
